@@ -1,5 +1,4 @@
-alpaca-trade-api==3.2.0
-yfinance==0.2.40
-pandas==2.2.2
-schedule==1.2.1
-requests==2.32.3
+alpaca-trade-api
+yfinance
+schedule
+requests
